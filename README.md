@@ -24,4 +24,10 @@ Project Tasks
     Task 7: Apply k-means using Scikit-Learn to perform customer segmentation    
     Task 8: Apply Principal Component Analysis (PCA) technique to perform dimensionality reduction and data visualization    
 
+Exploratory Data Analysis:
+Various steps were performed to clean the data, an example of the steps is the heatmap of the correlations between the different features:
+![Correlations](features_heatmap.png)
+
+Results:
+The clustering obtained 5 clusters (could be optimized further). The below clusters represent different types of customers and their habits:
 ![Result Clusters](clusters.png)
