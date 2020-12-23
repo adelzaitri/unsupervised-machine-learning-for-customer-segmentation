@@ -1,5 +1,13 @@
 # Unsupervised Machine Learning for Customer Segmentation
 
+Overview:
+========
+The project focuses on extracting insights related to bank customers.
+The business objective is to divide the customers into segments that could be reached out to with different merketing campaigns.
+The data represents the transactions frequency, amount...
+
+The data is available in: https://www.kaggle.com/arjunbhasin2013/ccdata 
+
 Project Objectives:
 ===========
 * Understand how to leverage the power of machine learning to transform marketing departments and perform customer segmentation
