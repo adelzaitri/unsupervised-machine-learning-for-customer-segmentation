@@ -10,6 +10,8 @@ The data is available in: https://www.kaggle.com/arjunbhasin2013/ccdata
 
 ![Code Notebook](/Unsupervised_ML_K_Means_Customer_Segmentation.ipynb)
 
+The steps are part of a guided project on Coursera. 
+
 Project Objectives:
 ===========
 * Understand how to leverage the power of machine learning to transform marketing departments and perform customer segmentation
