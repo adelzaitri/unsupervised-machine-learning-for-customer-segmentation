@@ -1,6 +1,6 @@
 # Unsupervised Machine Learning for Customer Segmentation
 
-Project Objectives:
+#Project Objectives:
 ===========
 * Understand how to leverage the power of machine learning to transform marketing departments and perform customer segmentation
 * Apply Python libraries to import and visualize dataset images.
