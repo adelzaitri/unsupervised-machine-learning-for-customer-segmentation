@@ -23,3 +23,5 @@ Project Tasks
     Task 6: Use Scikit-Learn library to find the optimal number of clusters using elbow method    
     Task 7: Apply k-means using Scikit-Learn to perform customer segmentation    
     Task 8: Apply Principal Component Analysis (PCA) technique to perform dimensionality reduction and data visualization    
+
+![Result Clusters](clusters.png)
